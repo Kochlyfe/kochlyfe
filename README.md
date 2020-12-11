@@ -1,4 +1,4 @@
-[![cover8d7cad0bf172099f.gif](https://s8.gifyu.com/images/cover8d7cad0bf172099f.gif)](https://gifyu.com/image/06ec)
+[![cover-joachim.gif](https://s8.gifyu.com/images/cover-joachim.gif)](https://gifyu.com/image/06eR)
 
 ### Hi there 👋
 
