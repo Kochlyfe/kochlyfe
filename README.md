@@ -1,6 +1,4 @@
-<p>
-  <img src="https://gifyu.com/image/06ec"/>
-</p>
+[![cover8d7cad0bf172099f.gif](https://s8.gifyu.com/images/cover8d7cad0bf172099f.gif)](https://gifyu.com/image/06ec)
 
 ### Hi there 👋
 
