@@ -6,7 +6,7 @@
 
 :herb: Currently contributing to a web version of a boardgame about climate change for an NGO, using TypeScript, React, Socket.io, Express and Mongo. 
 
-:raising_hand: Get in touch with me if you have an idea for the next project that planet Earth needs but don't deserves.
+:raising_hand: Get in touch with me if you have an idea for the next project that humanity needs but don't deserves.
 
 ## Favorite technologies 
 ```
