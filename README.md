@@ -11,6 +11,7 @@
 ## Favorite technologies 
 ```
 TypeScript
+React
 D3
 Socket.io
 Scitkit-learn
