@@ -12,8 +12,5 @@
 ```
 TypeScript
 React
-D3
-Socket.io
-Scitkit-learn
-Tensorflow
+GraphQL
 ```
