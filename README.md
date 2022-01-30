@@ -1,4 +1,4 @@
-[![cover-joachim.gif](https://gifyu.com/image/SbGbu)](https://gifyu.com/image/SbGbu)
+![Yellow Greyscale Landscape Photography Facebook Cover](https://user-images.githubusercontent.com/37308317/151714153-d9a713d4-16b6-43b8-bad7-80c8caf005f9.gif)
 
 # Joachim Koch
 
